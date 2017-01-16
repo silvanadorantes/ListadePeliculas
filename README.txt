@@ -1,0 +1,1 @@
+ListadePeliculas es una aplicacion android que me permite guardar mis peliculas favoritas dentro de una lista, al igual que se puede eliminar peliculas de esta lista y asi mantener la lista actualizada.

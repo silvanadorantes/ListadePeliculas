@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Peliculas</string>
+    <string name="action_settings">Settings</string>
+    <string name="pelicula">Nombre de Pelicula</string>
+    <string name="button_add">Guardar</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_update">Actualizar</string>
+    <string name="button_cancelar">Cancelar</string>
+</resources>
